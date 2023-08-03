@@ -1,4 +1,4 @@
-# Is program runs on the FPV car from a Winlab summer 2022 internship project
+# This program runs on the FPV car from a Winlab summer 2022 internship project
 # Authors: A. Martin and B. Yu 
 # the code that runs on the laptop is at:
 # https://github.com/canqda/FPV-Car-Code/blob/main/FPV-Client-Side-Code.py
