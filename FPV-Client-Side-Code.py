@@ -1,3 +1,6 @@
+#This program runs on the laptop end 
+#Authors: B. Yu and A. Martin
+
 import time
 import pickle
 from pynput.keyboard import *
